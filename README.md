@@ -19,7 +19,6 @@ Tech Stack
 
 Project Structure
 
-```
 
 ├── MainActivity.java          # Entry point of the app (Splash / Welcome screen)
 ├── LoginActivity.java         # Handles user login functionality
@@ -27,14 +26,11 @@ Project Structure
 ├── HomeActivity.java          # Displays after successful login
 ├── DatabaseHelper.java        # SQLite DB operations (insert, validate, etc.)
 
-````
-
 Getting Started
 
 1. Clone the repository:
-   ```bash
+
    git clone https://github.com/JoyalKuriakose/Sudoku
-````
 
 2. Open the project in **Android Studio**.
 
@@ -46,7 +42,6 @@ Usage
 * **Login**: Use your credentials to log in.
 * **Home Page**: Once logged in, you'll be redirected to the home screen.
 
-
 Requirements
 
 * Android Studio
@@ -54,4 +49,5 @@ Requirements
 * Java JDK 8+
 
 Author
+
 * Joyal Kuriakose
