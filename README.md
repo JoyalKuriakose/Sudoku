@@ -1,8 +1,8 @@
-# Android User Authentication App
+Android User Authentication App
 
 This is a simple Android application that demonstrates basic user authentication using SQLite as a local database. The app allows users to register, log in, and navigate to a home page after successful authentication.
 
-## 📱 Features
+Features
 
 - User Registration
 - User Login with SQLite authentication
@@ -10,14 +10,14 @@ This is a simple Android application that demonstrates basic user authentication
 - Input validation
 - Simple and clean UI
 
-## 🛠️ Tech Stack
+Tech Stack
 
 - **Language**: Java
 - **Platform**: Android
 - **Database**: SQLite (via `DatabaseHelper.java`)
 - **IDE**: Android Studio
 
-## 📂 Project Structure
+Project Structure
 
 ```
 
@@ -29,32 +29,29 @@ This is a simple Android application that demonstrates basic user authentication
 
 ````
 
-## 🚀 Getting Started
+Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/JoyalKuriakose/Sudoku
 ````
 
 2. Open the project in **Android Studio**.
 
 3. Build the project and run it on an emulator or physical device.
 
-## 🧪 Usage
+Usage
 
 * **Register**: Create a new account by entering your username, email, and password.
 * **Login**: Use your credentials to log in.
 * **Home Page**: Once logged in, you'll be redirected to the home screen.
 
-## 📸 Screenshots
 
-(Add screenshots here if available)
-
-## 📌 Requirements
+Requirements
 
 * Android Studio
 * Android SDK 21+
 * Java JDK 8+
 
-##  Author
+Author
 * Joyal Kuriakose
